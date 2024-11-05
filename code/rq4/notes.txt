@@ -1,0 +1,4 @@
+
+in total, 61.40% SATD were never resolved.. 
+
+the percent of unresolved SATD is not stronly correlated with number of existing satd methods. correlation is only 0.34
